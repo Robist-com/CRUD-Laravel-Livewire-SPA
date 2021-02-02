@@ -3,9 +3,9 @@
     <table class="table table-bordered">
         <thead class="thead-dark">
             <tr>
-                <th scope="col">TITLE</th>
-                <th scope="col">CONTENT</th>
-                <th scope="col">AKSI</th>
+                <th scope="col">Summary</th>
+                <th scope="col">Factors</th>
+                <th scope="col">Actions</th>
             </tr>
         </thead>
         <tbody>
